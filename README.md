@@ -9,3 +9,8 @@ PRzykład konfiguracji w pliku environment.ts
         }
     };
 ```
+
+npm start
+
+> ng-cognito@0.0.0 start
+> ng serve
